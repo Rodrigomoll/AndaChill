@@ -64,7 +64,7 @@ const Descubre = () => {
                 setTr_lng(details?.geometry?.viewport?.northeast?.lng);
              }}
              query={{
-                key: 'AIzaSyDOy1Ie_o2lbMbAbHefWi1ObVWgCgafaz0',
+                key: 'api google',
                 language: 'en',
              }}
             />
