@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Andachill",
-    "slug": "Andachill",
+    "name": "myreactapp",
+    "slug": "myreactapp",
+    "scheme": "myreactapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icons.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/icons.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,13 +18,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.myreactapp.myreactapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.myreactapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"

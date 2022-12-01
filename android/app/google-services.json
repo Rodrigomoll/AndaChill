@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229533479627",
+    "project_id": "andachill-c7ab2",
+    "storage_bucket": "andachill-c7ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229533479627:android:160c163301b5b71309614e",
+        "android_client_info": {
+          "package_name": "com.myreactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229533479627-7k6q26r5ue676ag1g2afgkv06l07h0ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdpflvWjHIrvXmXQnD67apOxjUOtXwTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229533479627-7k6q26r5ue676ag1g2afgkv06l07h0ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
